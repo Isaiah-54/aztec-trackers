@@ -1,0 +1,6 @@
+[
+  { "id": "dc",    "lat": 38.9072, "lng": -77.0369, "label": "Washington, D.C., USA" },
+  { "id": "lon",   "lat": 51.5072, "lng":  -0.1276, "label": "London, UK" },
+  { "id": "lag",   "lat":  6.5244, "lng":   3.3792, "label": "Lagos, Nigeria" },
+  { "id": "tokyo", "lat": 35.6762, "lng": 139.6503, "label": "Tokyo, Japan" }
+]
